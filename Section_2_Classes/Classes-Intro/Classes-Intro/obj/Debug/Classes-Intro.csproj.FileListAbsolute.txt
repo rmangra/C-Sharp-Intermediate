@@ -1,0 +1,7 @@
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\bin\Debug\Classes-Intro.exe.config
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\bin\Debug\Classes-Intro.exe
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\bin\Debug\Classes-Intro.pdb
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\obj\Debug\Classes-Intro.csprojResolveAssemblyReference.cache
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\obj\Debug\Classes-Intro.csproj.CoreCompileInputs.cache
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\obj\Debug\Classes-Intro.exe
+C:\Code\C# Intermediate\C-Sharp-Intermediate\Classes-Intro\Classes-Intro\obj\Debug\Classes-Intro.pdb
