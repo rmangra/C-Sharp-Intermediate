@@ -1,0 +1,7 @@
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\bin\Debug\Constructors.exe.config
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\bin\Debug\Constructors.exe
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\bin\Debug\Constructors.pdb
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\obj\Debug\Constructors.exe
+F:\C# Intermediate\C-Sharp-Intermediate\Constructors\Constructors\obj\Debug\Constructors.pdb
