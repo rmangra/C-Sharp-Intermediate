@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDraggable.cs" />
+    <Compile Include="IDroppable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Size.cs" />
+    <Compile Include="UiControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
